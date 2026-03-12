@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --name Queen_Anita-V5 --deep-monitoring --attach",
-    "stop": "pm2 stop YEOBOE_Anita-V5",
-    "restart": "pm2 restart YEOBOE_Anita-V5"
+    "start": "pm2 start index.js --Yeoboe-V5 --deep-monitoring --attach",
+    "stop": "pm2 stop YEOBOE-V5",
+    "restart": "pm2 restart YEOBOE-V5"
   },
   "keywords": [
     "whiskeysockets",
