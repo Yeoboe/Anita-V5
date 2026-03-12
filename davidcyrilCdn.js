@@ -18,6 +18,7 @@ async function davidcyCdn(buffer, fileType, fileName = 'upload') {
             headers: { ...formData.getHeaders() }
         });
 
+
         fs.unlinkSync(filePath); // Delete file after upload
 
         if (response.data.success && response.data.files.length > 0) {
