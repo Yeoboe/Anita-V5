@@ -1,18 +1,18 @@
-# Anita-V5
+# Yeoboe-V5
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/0ly0h6.jpg"/>       
+<img src="https://i.postimg.cc/Bn0w4t10/Screenshot-20260308-023917.png"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•QUEEN+ANITA-+V5•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Yeoboe+V5•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Yeoboe+V5;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-YEOBOE_SALIM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DavidCyrilTech/Anita-V5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DavidCyrilTech/Anita-V5?color=blue&style=flat-square"></a>
+<a href="https://github.com//Anita-V5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DavidCyrilTech/Anita-V5?color=blue&style=flat-square"></a>
 <a href="https://github.com/DavidCyrilTech/Anita-V5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DavidCyrilTech/Anita-V5?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DavidCyrilTech/Anita-V5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DavidCyrilTech/Anita-V5?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/DavidCyrilTech/Anita-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
