@@ -27,14 +27,22 @@
 ## Yeoboe-Anita-V5 Deployment Methods
 ---
 1.🪐  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V5/fork) (A MUST) and Star ⭐ Repository for Courage.**
+
 2.🪐  **Get SESSION ID BY [PAIRING CODE](https://pair.david-cyril.net.ng)** 
+
 3.🪐 **Deploy on [HEROKU](https://dashboard.heroku.com/new?template=https://github.com/DavidCyrilTech/Anita-V5)**
+
 4.🪐 **Deploy on [RENDER](https://dashboard.render.com/signup)**
+
 5.🪐 **Deploy on [KOYEB](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDavidCyrilTech&branch=main&name=Anita-V5&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
+
 6.🪐 **Deploy on [TALKDROVE](https://host.talkdrove.com)**
+
 7.🪐 **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
 8.🪐 **Deploy on [KATBUMP PANEL(DISCORD)](https://dashboard.katabump.com/auth/login#1ae56c)**
+
 9.🪐 **You can visit Bot whatsapp channel [BY CLICKING HERE](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
+
 10.🪐 **All Tutorials [Here](https://www.youtube.com/@Yeobo_TECH)**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
