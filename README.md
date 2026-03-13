@@ -63,9 +63,10 @@
 - *Use Yeoboe-V5 at your own risk by keeping this warning in mind.*
   
   #### `TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/Yeoboe/count.svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img src='https://readme-typing-svg.demolab.com?font=Rockwimgell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Yeoboe Techh-Official; Welcome❤️‍🩹+To+Yeoboe+Service🪐;Made+by+Yeoboe_Salim" alt="Typing SVG" />
+  </a> '/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  <a><img                     src="https://readme-typing-svg.demolab.com?font=Rockwimgell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Yeoboe Techh-Official; Welcome❤️‍🩹+To+Yeoboe+Service🪐;Made+by+Yeoboe_Salim" alt="Typing SVG" />
   </a> 
