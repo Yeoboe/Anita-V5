@@ -39,6 +39,7 @@
 6.🪐 **Deploy on [TALKDROVE](https://host.talkdrove.com)**
 
 7.🪐 **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
+
 8.🪐 **Deploy on [KATBUMP PANEL(DISCORD)](https://dashboard.katabump.com/auth/login#1ae56c)**
 
 9.🪐 **You can visit Bot whatsapp channel [BY CLICKING HERE](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
@@ -65,6 +66,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Yeoboe/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <img src="https://readme-typing-svg.demolab.com?font=Rockwimgell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Yeoboe Techh-Official; Welcome❤️‍🩹+To+Yeoboe+Service🪐;Made+by+Yeoboe_Salim" alt="Typing SVG" />
   </a> 
 </div>
