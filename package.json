@@ -1,7 +1,7 @@
 {
   "name": "YEOBOE_V5",
   "version": "5.0.0",
-  "description": "YEOBOE V5 Is a Simple Whatsapp Bot Made by David Cyril using Baileys-X",
+  "description": "YEOBOE V5 Is a Simple Whatsapp Bot Made by Yeoboe_Salim using Baileys-X",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
