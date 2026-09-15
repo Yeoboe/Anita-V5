@@ -4,7 +4,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
 </p>
 <p align="center">
-<img src="https://i.postimg.cc/Bn0w4t10/Screenshot-20260308-023917.png"/>       
+<img src="https://i.postimg.cc/v8KHZB0k/1788990737756.png"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Yeoboe+V5•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Yeoboe+V5;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
