@@ -12,10 +12,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-YEOBOE_SALIM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Yeoboe/Yeoboe-V5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Yeoboe/Yeoboe-V5?color=blue&style=flat-square"></a>
-<a href="https://github.com/Yeoboe/Yeoboe-V5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Yeoboe/Yeoboe-V5?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Yeoboe/Yeoboe-V5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Yeoboe/Yeoboe-V5?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Yeoboe/Yeoboe-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Yeoboe/streetlove/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Yeoboe/streetlove?color=blue&style=flat-square"></a>
+<a href="https://github.com/Yeoboe/streetlove/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Yeoboe/streetlove?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Yeoboe/streetlove/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Yeoboe/streetlove?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Yeoboe/streetlove/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
@@ -24,9 +24,9 @@
 
 
 
-## Yeoboe-Anita-V5 Deployment Methods
+## streetlove Deployment Methods
 ---
-1.🪐  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V5/fork) (A MUST) and Star ⭐ Repository for Courage.**
+1.🪐  **Fork Repo First, [CLICK HERE](https://github.com/Yeoboe/streetlove/fork) (A MUST) and Star ⭐ Repository for Courage.**
 
 2.🪐  **Get SESSION ID BY [PAIRING CODE](https://pair.david-cyril.net.ng)** 
 
